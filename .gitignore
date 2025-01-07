@@ -6,3 +6,6 @@ out/
 **/.idea
 **/.mvn/**
 
+
+### Mac OS ###
+.DS_Store
