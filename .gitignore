@@ -5,7 +5,7 @@ out/
 **/*/target/**
 **/.idea
 **/.mvn/**
-
+**/.DS_Store
 
 ### Mac OS ###
 .DS_Store
